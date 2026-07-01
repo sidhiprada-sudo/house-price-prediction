@@ -9,4 +9,5 @@ This is a Machine Learning project to predict house prices based on different fe
 
 ## Status
 Completed(Initial Version)
+
 Model built and trained succesfully with ~89% accuracy. Data preprocessing,feature engineering and training pipeline implemented using python.
